@@ -49,6 +49,7 @@ Predict whether a vendor invoice should be flagged for manual approval due to ab
 - Early risk detection improves audit efficiency and operational control.
 
 ![](images/flag_invoice_prediction.png)
+![](images/manual_approval.png)
 ---
 
 <h2><a class="anchor" id="data-sources"></a>📂 Data Sources</h2>
